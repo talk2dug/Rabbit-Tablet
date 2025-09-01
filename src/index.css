@@ -1,0 +1,41 @@
+
+body {
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+background-color:'grey'
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.scrollable-div {
+  overflow-y: scroll; 
+
+}
+.table-fixed {
+  table-layout: fixed;
+  width: 100%;
+  overflow-x: scroll;
+}
+
+
+.img-thumbnail{
+  width: 150px;
+  height: 150px;
+
+
+}
+.weatherIcon{
+  width: 50px;
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
